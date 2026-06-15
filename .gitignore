@@ -1,0 +1,7 @@
+.env
+node_modules/
+1234
+1234.pub
+*.pem
+*.key
+*.pub
